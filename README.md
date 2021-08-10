@@ -1,14 +1,14 @@
-![](https://github.com/wniemiec-components-reactnative/full-tooltip/blob/master/docs/img/logo/logo.jpg)
+![](https://github.com/wniemiec-component-reactnative/full-tooltip/blob/master/docs/img/logo/logo.jpg)
 
 <h1 align='center'>Full Tooltip</h1>
 <p align='center'>Full-width tooltip.</p>
 <p align="center">
-	<a href="https://github.com/wniemiec-components-reactnative/full-tooltip/actions/workflows/windows.yml"><img src="https://github.com/wniemiec-components-reactnative/full-tooltip/actions/workflows/windows.yml/badge.svg" alt=""></a>
-	<a href="https://github.com/wniemiec-components-reactnative/full-tooltip/actions/workflows/macos.yml"><img src="https://github.com/wniemiec-components-reactnative/full-tooltip/actions/workflows/macos.yml/badge.svg" alt=""></a>
-	<a href="https://github.com/wniemiec-components-reactnative/full-tooltip/actions/workflows/ubuntu.yml"><img src="https://github.com/wniemiec-components-reactnative/full-tooltip/actions/workflows/ubuntu.yml/badge.svg" alt=""></a>
+	<a href="https://github.com/wniemiec-component-reactnative/full-tooltip/actions/workflows/windows.yml"><img src="https://github.com/wniemiec-component-reactnative/full-tooltip/actions/workflows/windows.yml/badge.svg" alt=""></a>
+	<a href="https://github.com/wniemiec-component-reactnative/full-tooltip/actions/workflows/macos.yml"><img src="https://github.com/wniemiec-component-reactnative/full-tooltip/actions/workflows/macos.yml/badge.svg" alt=""></a>
+	<a href="https://github.com/wniemiec-component-reactnative/full-tooltip/actions/workflows/ubuntu.yml"><img src="https://github.com/wniemiec-component-reactnative/full-tooltip/actions/workflows/ubuntu.yml/badge.svg" alt=""></a>
 	<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-0.60+-D0008F.svg" alt="React Native compatibility"></a>
-	<a href="https://github.com/wniemiec-components-reactnative/full-tooltip/releases"><img src="https://img.shields.io/github/v/release/wniemiec-components-reactnative/full-tooltip" alt="Release"></a>
-	<a href="https://github.com/wniemiec-components-reactnative/full-tooltip/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-components-reactnative/full-tooltip" alt="License"></a>
+	<a href="https://github.com/wniemiec-component-reactnative/full-tooltip/releases"><img src="https://img.shields.io/github/v/release/wniemiec-component-reactnative/full-tooltip" alt="Release"></a>
+	<a href="https://github.com/wniemiec-component-reactnative/full-tooltip/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-component-reactnative/full-tooltip" alt="License"></a>
 </p>
 <hr />
 
@@ -18,13 +18,13 @@ React Native component that displays a full-width tooltip, being possible to be 
 ## 🖼 Gallery
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap: wrap"
-<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/full-tooltip/master/docs/img/screens/img1.png" alt="image 1" />
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-component-reactnative/full-tooltip/master/docs/img/screens/img1.png" alt="image 1" />
 
-<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/full-tooltip/master/docs/img/screens/img2.png" alt="image 2" />
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-component-reactnative/full-tooltip/master/docs/img/screens/img2.png" alt="image 2" />
 
-<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/full-tooltip/master/docs/img/screens/img3.png" alt="image 3" />
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-component-reactnative/full-tooltip/master/docs/img/screens/img3.png" alt="image 3" />
 
-<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/full-tooltip/master/docs/img/screens/img4.png" alt="image 4" />
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-component-reactnative/full-tooltip/master/docs/img/screens/img4.png" alt="image 4" />
 </div>
 
 ## ❓ How to use
@@ -72,10 +72,10 @@ const image = { uri: "https://reactjs.org/logo-og.png" };
 |fgColor |`string`|Text color  |`"rgba(0, 0, 0, 0.7)"`|
 
 ## 🚩 Changelog
-Details about each version are documented in the [releases section](https://github.com/wniemiec-components-reactnative/full-tooltip/releases).
+Details about each version are documented in the [releases section](https://github.com/wniemiec-component-reactnative/full-tooltip/releases).
 
 ## 🤝 Contribute!
-See the documentation on how you can contribute to the project [here](https://github.com/wniemiec-components-reactnative/full-tooltip/blob/master/CONTRIBUTING.md).
+See the documentation on how you can contribute to the project [here](https://github.com/wniemiec-component-reactnative/full-tooltip/blob/master/CONTRIBUTING.md).
 
 ## 📁 Files
 
