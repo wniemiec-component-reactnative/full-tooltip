@@ -1,6 +1,6 @@
 {
   "name": "@wniemiec-component-reactnative/full-tooltip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Full-width tooltip.",
   "main": "index.js",
   "repository": {
