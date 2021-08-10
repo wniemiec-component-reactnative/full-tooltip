@@ -7,7 +7,7 @@
 	<a href="https://github.com/wniemiec-component-reactnative/full-tooltip/actions/workflows/macos.yml"><img src="https://github.com/wniemiec-component-reactnative/full-tooltip/actions/workflows/macos.yml/badge.svg" alt=""></a>
 	<a href="https://github.com/wniemiec-component-reactnative/full-tooltip/actions/workflows/ubuntu.yml"><img src="https://github.com/wniemiec-component-reactnative/full-tooltip/actions/workflows/ubuntu.yml/badge.svg" alt=""></a>
 	<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-0.60+-D0008F.svg" alt="React Native compatibility"></a>
-	<a href="https://github.com/wniemiec-component-reactnative/full-tooltip/releases"><img src="https://img.shields.io/github/v/release/wniemiec-component-reactnative/full-tooltip" alt="Release"></a>
+	<a href="https://www.npmjs.com/package/@wniemiec-component-reactnative/full-tooltip"><img src="https://img.shields.io/npm/v/@wniemiec-component-reactnative/full-tooltip" alt="Release"></a>
 	<a href="https://github.com/wniemiec-component-reactnative/full-tooltip/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-component-reactnative/full-tooltip" alt="License"></a>
 </p>
 <hr />
