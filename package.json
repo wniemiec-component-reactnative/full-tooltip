@@ -1,0 +1,24 @@
+{
+  "name": "@wniemiec-component-reactnative/full-tooltip",
+  "version": "1.0.0",
+  "description": "Full-width tooltip.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wniemiec-components-reactnative/full-tooltip.git"
+  },
+  "keywords": [
+    "wniemiec",
+    "component",
+    "reactnative",
+    "full-tooltip",
+    "full",
+    "tooltip"
+  ],
+  "author": "William Niemiec <williamniemiec@hotmail.com> (https://www.linkedin.com/in/williamniemiec)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wniemiec-components-reactnative/full-tooltip/issues"
+  },
+  "homepage": "https://github.com/wniemiec-components-reactnative/full-tooltip#readme"
+}
