@@ -68,8 +68,8 @@ const image = { uri: "https://reactjs.org/logo-og.png" };
 |        Property        |Type|Description|Default|
 |----------------|-------------------------------|-----------------------------|--------|
 |display |`boolean`|Tooltip content | `true` |
-|selected |`bool`|Custom style | `null` |
-|fgColor |`string`|Text color  |`"rgba(0, 0, 0, 0.7)"`|
+|style |`bool`|Custom style | `null` |
+|bgColor |`string`|Background color  |`"rgba(0, 0, 0, 0.7)"`|
 
 ## 🚩 Changelog
 Details about each version are documented in the [releases section](https://github.com/wniemiec-component-reactnative/full-tooltip/releases).

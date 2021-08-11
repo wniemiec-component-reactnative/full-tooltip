@@ -12,9 +12,9 @@ import React from 'react';
 import { View } from 'react-native';
 import styles from './styles';
 
-export default function Rectangle({ children, fgColor }) {
+export default function Rectangle({ children, bgColor }) {
   return (
-    <View style={[styles.area, { backgroundColor: fgColor }]}>
+    <View style={[styles.area, { backgroundColor: bgColor }]}>
       {children}
     </View>
   );

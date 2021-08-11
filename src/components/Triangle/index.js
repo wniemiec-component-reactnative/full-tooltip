@@ -12,9 +12,9 @@ import React from 'react';
 import { View } from 'react-native';
 import styles from './styles';
 
-export default function Triangle({ fgColor }) {
+export default function Triangle({ bgColor }) {
   return (
-    <View style={[styles.triangle, { borderBottomColor: fgColor }]}>
+    <View style={[styles.triangle, { borderBottomColor: bgColor }]}>
     </View>
   );
 }

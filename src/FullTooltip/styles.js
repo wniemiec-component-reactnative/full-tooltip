@@ -5,5 +5,8 @@ export default StyleSheet.create({
     width: '100%',
     justifyContent: "center",
     alignItems: 'center'
+  },
+  hide: {
+    transform: [{ scale: 0 }]
   }
 });
